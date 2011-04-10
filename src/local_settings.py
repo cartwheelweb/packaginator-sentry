@@ -10,4 +10,4 @@ DATABASES = {
     }
 }
 
-SENTRY_KEY = '123'
+#SENTRY_KEY = 'your-sentry-key-here'
